@@ -1,0 +1,14 @@
+1. The internet is a network and medium, in which the world wide web works.
+The internet is what connects computers to other computers, the web is an 
+information-sharing model.
+2. The internet is a network of networks, allowing millions of computers 
+in the world to communicate, as long as said computers are connected to 
+the internet.
+3. A directory contains sets of information within it. It is like a folder
+for files, or subdirectories if those appear.
+4. VCS will help me collaborate with others, compare past and present
+versions of a project, be able to revert to a previous state in the
+project, and so on.
+5. Done.
+6. Tough to choose, honestly. Grew up with too many.
+7. Done shortly.
