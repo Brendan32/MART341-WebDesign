@@ -1,0 +1,8 @@
+1. youtube.com, discord.com, m.rivalregions.com
+2. DNS is responsible for giving IP addresses names that can be understood better by humans.
+3. Information stored to your computer that your computer can send to servers so the servers recognize the computer more quickly.
+4. Protocol, domain, and path.
+5. Will do.
+6. - Learned what domain names serve to do.
+   - Learned how to create a directory locally.
+   - Learned what the lock symbol is for.
