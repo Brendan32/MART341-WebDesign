@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Brendan Pair" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Contact Page for Nearest GameStop</h1>
+    <img src="./images/gamestop-logo.png" alt="The logo of GameStop, video
+      game retailer. The word game is black, and the word stop is red."
+      title="GameStop logo" width="1000" height="189">
+    <address>
+      2901 BROOKS ST <br />
+      STE C-14 <br />
+      Missoula, MT 59801 <br />
+      (406) 721-0320
+    </address>
+    <!-- I hope this will do for the email requirement. Technically it says that
+      this page allows you to contact them by email, so. -->
+    <a href="https://www.gamestop.com/contact/?utm_kxconfid=teby7kvd7&gclsrc=aw.ds">
+      You can also contact them by email here!
+    </a>
+    <table style="width: 200px; margin: 40px auto;">
+      <tr>
+        <th scope="col">Day</th>
+        <th scope="col">From</th>
+        <th scope="col">To</th>
+      </tr>
+      <tr>
+        <th scope="row">Mon</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Tue</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Wed</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Thu</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Fri</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Sat</th>
+        <td>11:00 AM</td>
+        <td>7:00 PM</td>
+      </tr>
+      <tr>
+        <th scope="row">Sun</th>
+        <td>11:00 AM</td>
+        <td>6:00 PM</td>
+      </tr>
+    </table>
+    <form action="index.html" method="post">
+      <p>
+        Enter "Done" Here:
+        <input type="text" name="request" value="enter-okay" placeholder="Done" />
+      </p>
+      <p>Did you do it?</p>
+        <input type="radio" name="honesty" value="yes" /> Yes
+        <br />
+        <input type="radio" name="honesty" value="no" /> No
+        <p>
+          Comments:
+          <textarea name="comments"></textarea>
+        </p>
+        <input type="submit" name="submit" value="Submit">
+    </form>
+  </body>
+</html>
