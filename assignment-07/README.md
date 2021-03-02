@@ -10,4 +10,8 @@ to gather information from the user. Radio buttons allow the user to select one
 choice from a list of choices, which is used to gather more controlled information.
 The upload button allows the user to select a file from their computer and
 upload it to the URL you provide in the action attribute.
-3.
+3. I didn't really have any challenges with this assignment, nor the information
+on the class website. I successfully implemented the form and such. Oh, one
+challenge I did have was finding an e-mail to use. Unfortunately, I couldn't
+find one, as GameStop does not provide an address. Instead, they direct you to
+a page. So, I linked that page.
