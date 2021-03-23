@@ -13,9 +13,13 @@ div {
   margin: auto;
 }
 
+img {
+  align-items: center;
+}
+
 .text-boxes {
-  background-color: rgba(255, 204, 0, 0.5) !important;
-  color: white;
+  background-color: rgba(255, 204, 0, 0.5);
+  padding: 10px;
 }
 
 .header {
