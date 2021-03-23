@@ -1,6 +1,6 @@
 * {
   background-color: black;
-  font-family: Verdana, Arial;
+  font-family: Verdana, Times, Arial;
 }
 
 h1 {
@@ -14,7 +14,7 @@ div {
 }
 
 .text-boxes {
-  background-color: rgba(255, 204, 0, 0.5), inherit;
+  background-color: rgba(255, 204, 0, 0.5) !important;
   color: white;
 }
 
