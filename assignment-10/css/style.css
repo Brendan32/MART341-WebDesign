@@ -25,3 +25,11 @@ img {
 .header {
   text-align: center;
 }
+
+.text-head {
+  float: left;
+}
+
+h3, h4 {
+  color: white;
+}
