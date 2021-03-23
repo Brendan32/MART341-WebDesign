@@ -14,7 +14,8 @@ div {
 }
 
 img {
-  margin: auto;
+  position: relative;
+  left: 50px;
 }
 
 .text-boxes {
