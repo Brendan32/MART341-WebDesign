@@ -13,6 +13,8 @@ div {
   margin: auto;
 }
 
+/* I hope this counts as positioning, I couldn't get the images to center
+properly otherwise */
 img {
   display: block;
   margin-left: auto;
