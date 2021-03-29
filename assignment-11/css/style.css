@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Source+Serif+Pro:wght@400;600&display=swap');
+/* SSP is for the headers and #info, Courier Prime is for the excerpt */
+
 body {
   background-color: ivory;
+  font-family: 'Source Serif Pro', Times, serif;
+}
+
+div {
+  width: 50%;
+  margin: auto;
+  padding: 1em;
+}
+
+#excerpt p {
+  font-family: 'Courier Prime', Courier, monospace;
 }
