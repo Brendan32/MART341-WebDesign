@@ -11,4 +11,7 @@ the browser knows to load the next preferred font. Another problem that can appe
 is when you use web fonts. These can take a moment to load, so including fallback
 fonts can help have an approximation of the site content while the intended styling
 loads.
-3. 
+3. I didn't really have any challenges this week, in this class or in general.
+In fact, I played a console game for the first time in a long while. That said,
+it wasn't completely stress-free, due to worrying about upcoming assignments
+despite not working on them. Procrastination is an issue.
