@@ -12,6 +12,10 @@ div {
   padding: 1em;
 }
 
+h1, h2 {
+  text-align: center;
+}
+
 #excerpt p {
   font-family: 'Courier Prime', Courier, monospace;
   text-indent: 1.5em;
