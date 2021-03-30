@@ -16,6 +16,19 @@ h1, h2 {
   text-align: center;
 }
 
+h1 {
+  font-size: 3em;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+a:hover {
+  font-style: oblique;
+}
+
 #excerpt p {
   font-family: 'Courier Prime', Courier, monospace;
   text-indent: 1.5em;
