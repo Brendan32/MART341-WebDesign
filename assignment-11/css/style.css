@@ -17,7 +17,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 6em;
   font-weight: 600;
 }
 
@@ -31,5 +31,10 @@ a:hover {
 
 #excerpt p {
   font-family: 'Courier Prime', Courier, monospace;
-  text-indent: 1.5em;
+  text-indent: 3em;
+}
+
+/* This is a reference to the book: in it, the word house is always colored blue */
+.house {
+  color: rgb(24, 24, 164);
 }
