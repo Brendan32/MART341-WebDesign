@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;555&display=swap');
+
 body {
   background-color: black;
-  font-family: Verdana, Times, Arial;
+  font-family: 'Alegreya', Times, serif;
 }
 
 h1 {
