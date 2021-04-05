@@ -18,6 +18,7 @@ div {
 }
 
 #header-box {
+  top: 0px;
   width: 100%;
   background-color: black;
   position: fixed;
@@ -53,22 +54,26 @@ h2 {
   font-size: 2.5em;
 }
 
+#box-two div img {
+  float: left;
+  width: 50%;
+  max-width: 310px;
+}
+
 h3, h4 {
   color: white;
 }
 
 h4 {
-  border: hidden;
+  border: solid;
   border-width: medium;
+  border-color: white;
+  border-radius: 100%;
   margin-left: auto;
   margin-right: auto;
 }
 
 h4:hover {
   color: rgba(255, 204, 0, 0.5);
-  border: inset;
-  border-width: medium;
   border-color: rgba(255, 204, 0, 0.5);
-  margin-left: auto;
-  margin-right: auto;
 }
