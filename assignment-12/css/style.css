@@ -24,6 +24,10 @@ div {
   margin-top: 0;
 }
 
+#dummy-header {
+  width: 100%;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -42,23 +46,22 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 h2 {
   font-size: 2.5em;
 }
 
-.text-head {
-  float: left;
-}
-
-.clear-left {
-  clear: left;
-}
-
 h3, h4 {
   color: white;
+}
+
+h4 {
+  border: hidden;
+  border-width: medium;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h4:hover {
@@ -66,4 +69,6 @@ h4:hover {
   border: inset;
   border-width: medium;
   border-color: rgba(255, 204, 0, 0.5);
+  margin-left: auto;
+  margin-right: auto;
 }
