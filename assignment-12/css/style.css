@@ -8,7 +8,7 @@ body {
 
 h1 {
   color: rgba(255, 204, 0, 0.5);
-  font-size: 50px;
+  font-size: 4em;
 }
 
 div {
@@ -41,6 +41,14 @@ img {
   text-align: center;
   font-family: 'Cinzel', Times, serif;
   font-weight: 650;
+}
+
+p {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 2.5em;
 }
 
 h3, h4 {
