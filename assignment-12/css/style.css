@@ -77,7 +77,7 @@ span {
   border-radius: 100%;
 }
 
-h4:hover {
+span:hover {
   color: rgba(255, 204, 0, 0.5);
   border-color: rgba(255, 204, 0, 0.5);
 }
