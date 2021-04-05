@@ -24,10 +24,6 @@ div {
   margin-top: 0;
 }
 
-#top {
-  margin-top: 10em;
-}
-
 img {
   display: block;
   margin-left: auto;
@@ -46,7 +42,7 @@ img {
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 h2 {
