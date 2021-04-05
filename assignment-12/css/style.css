@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;650&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@650&display=swap');
 
 body {
   background-color: black;
   font-family: 'Cinzel', Times, serif;
-  font-weight: 400;
+  font-weight: 650;
 }
 
 h1 {
   color: rgb(255, 204, 0);
   font-size: 50px;
+  position: fixed;
 }
 
 div {
@@ -16,8 +17,6 @@ div {
   margin: auto;
 }
 
-/* I hope this counts as positioning, I couldn't get the images to center
-properly otherwise */
 img {
   display: block;
   margin-left: auto;
@@ -31,7 +30,6 @@ img {
 
 .header {
   text-align: center;
-  font-weight: 650;
 }
 
 h3, h4 {
