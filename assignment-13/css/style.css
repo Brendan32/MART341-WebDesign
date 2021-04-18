@@ -1,4 +1,7 @@
-nav ul {
-  list-style: none;
+nav {
   display: inline-block;
+}
+
+li {
+  list-style-type: none;
 }
