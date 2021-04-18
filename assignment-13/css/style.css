@@ -1,4 +1,3 @@
-body {
-  background-color: lavender;
+nav ul li {
+  display: inline-block;
 }
-/* This is a placeholder code while I figure out what to do. */
