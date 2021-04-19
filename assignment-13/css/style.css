@@ -1,8 +1,15 @@
+/* This comment marks the beginning of the portion for the navbar */
 nav {
   position: fixed;
   top: 0;
 }
-
 .nav-div {
   display: inline-block;
 }
+.dropdown-content {
+  display: none;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/* This comment marks the end of the portion for the navbar */
