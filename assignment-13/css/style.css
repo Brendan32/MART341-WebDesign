@@ -1,3 +1,8 @@
+body {
+  margin: none;
+  padding: none;
+  background-color: goldenrod;
+}
 /* This comment marks the beginning of the portion for the navbar */
 nav {
   position: fixed;
