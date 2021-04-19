@@ -1,3 +1,5 @@
-.nav-div {
-  display: inline-block;
+nav {
+  display: inline;
+  position: fixed;
+  top: 0;
 }
