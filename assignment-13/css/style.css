@@ -4,5 +4,5 @@ nav {
 }
 
 .nav-div {
-  display: inline;
+  display: inline-block;
 }
