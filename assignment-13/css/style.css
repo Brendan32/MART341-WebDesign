@@ -10,6 +10,7 @@ nav {
 }
 .dropdown-content {
   display: none;
+  position: absolute;
 }
 .dropdown:hover .dropdown-content {
   display: block;
