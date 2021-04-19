@@ -1,5 +1,8 @@
 nav {
-  display: inline;
   position: fixed;
   top: 0;
+}
+
+.navbar {
+  display: inline;
 }
