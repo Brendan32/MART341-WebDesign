@@ -1,2 +1,5 @@
-/* Might import fonts for this, might not, but font size changes will probably
-happen a bunch, may as well make it separate from the rest of the styling */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap');
+
+.navbar div {
+  font-family: 'Poppins', Verdana, sans-serif;
+}
