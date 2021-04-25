@@ -1,14 +1,14 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: goldenrod;
+  background-color: #ffc;
 }
 /* This comment marks the beginning of the portion for the navbar */
 nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: rgb(255, 0, 0);
+  background-color: #f93;
 }
 .nav-div {
   display: inline-block;
@@ -17,7 +17,7 @@ nav {
   display: none;
   position: absolute;
 }
-.dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content, .dropdown-item {
   display: block;
 }
 /* This comment marks the end of the portion for the navbar */
