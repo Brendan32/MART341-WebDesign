@@ -26,4 +26,5 @@ nav {
 }
 p {
   background-color: rgba(51, 102, 153, 0.5);
+  padding: 0.5em;
 }
