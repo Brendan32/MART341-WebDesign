@@ -21,3 +21,9 @@ nav {
   display: block;
 }
 /* This comment marks the end of the portion for the navbar */
+.index-image {
+  width: 100%;
+}
+p {
+  background-color: rgba(51, 102, 153, 0.5);
+}
