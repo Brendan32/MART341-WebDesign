@@ -26,8 +26,8 @@ nav {
   border: 0.2em solid black;
   background-color: white;
 }
-.dropdown:hover .dropdown-content, .dropdown:hover .dropdown-item {
-  display: block !important;
+.dropdown:hover .dropdown-content {
+  display: block
 }
 /* This comment marks the end of the portion for the navbar */
 section {
