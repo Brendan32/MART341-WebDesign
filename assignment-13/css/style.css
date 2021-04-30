@@ -12,12 +12,13 @@ nav {
 }
 .nav-div {
   display: inline-block;
-  padding: 0.2em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding: 1em 0.1em;
 }
 .nav-div:hover {
   background-color: rgb(205, 154, 52);
+}
+.nav-home {
+  padding-left: 0.25em;
 }
 .dropdown-content {
   display: none;
