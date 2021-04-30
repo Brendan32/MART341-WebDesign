@@ -22,9 +22,11 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
+  border: 0.25em solid black;
+  background-color: white;
 }
 .dropdown:hover .dropdown-content, .dropdown:hover .dropdown-item {
-  display: block;
+  display: block !important;
 }
 /* This comment marks the end of the portion for the navbar */
 .index-image img {
