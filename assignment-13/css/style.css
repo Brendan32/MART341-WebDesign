@@ -8,10 +8,16 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: rgb(102, 204, 255);
+  background-color: rgba(255, 153, 0, 0.5);
 }
 .nav-div {
   display: inline-block;
+  padding: 0.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.nav-div:hover {
+  background-color: rgba(205, 103, 0, 0.5);
 }
 .dropdown-content {
   display: none;
