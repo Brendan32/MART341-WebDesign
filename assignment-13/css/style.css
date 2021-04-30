@@ -23,7 +23,7 @@ nav {
   display: none;
   position: absolute;
 }
-.dropdown:hover .dropdown-content, .dropdown-item {
+.dropdown:hover .dropdown-content, .dropdown:hover .dropdown-item {
   display: block;
 }
 /* This comment marks the end of the portion for the navbar */
