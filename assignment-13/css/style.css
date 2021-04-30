@@ -21,8 +21,8 @@ nav {
   padding: 0;
   margin: 0;
 }
-.nav-home {
-  padding-left: 0.25em;
+.nav-left {
+  padding-left: 0.5em;
 }
 .dropdown-content {
   display: none;
