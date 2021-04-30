@@ -9,12 +9,10 @@ nav {
   top: 0;
   width: 100%;
   background-color: rgb(255, 204, 102);
-  align-items: center;
 }
 .nav-div {
   display: inline-block;
   padding: 0.5em 0.25em;
-  align-items: center;
 }
 .nav-div:hover {
   background-color: rgb(205, 154, 52);
@@ -24,7 +22,7 @@ nav {
   margin: 0;
 }
 .nav-left {
-  padding-left: 0.5em;
+  margin-left: 0.5em;
 }
 .dropdown-content {
   display: none;
