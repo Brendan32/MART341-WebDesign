@@ -25,6 +25,7 @@ nav {
   display: none;
   position: absolute;
   margin-top: 0.5em;
+  margin-right: 0.25em;
   border: 0.2em solid black;
   background-color: white;
 }
@@ -33,7 +34,7 @@ nav {
 }
 /* This comment marks the end of the portion for the navbar */
 section {
-  margin-top: 3em;
+  margin-top: 2em;
 }
 .index-image img {
   width: 100%;
