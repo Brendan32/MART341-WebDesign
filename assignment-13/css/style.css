@@ -49,7 +49,7 @@ section {
 .services-image img {
   width: 100%;
 }
-.content {
+p {
   background-color: rgba(255, 153, 0, 0.5);
   padding: 0.5em;
 }
