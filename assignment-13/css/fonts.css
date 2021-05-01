@@ -29,6 +29,6 @@ section {
   font-weight: 700;
   font-size: 1.5em;
 }
-.align-right p, h1 {
+.align-right {
   text-align: right;
 }
