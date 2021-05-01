@@ -25,3 +25,10 @@ section {
   font-weight: 400;
   font-size: 1em;
 }
+.services-content h1 {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+.align-right {
+  text-align: right;
+}
