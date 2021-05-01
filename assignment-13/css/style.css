@@ -38,6 +38,9 @@ nav {
 section {
   margin-top: 2em;
 }
+#contact-margin {
+  margin-top: 0.5em;
+}
 .index-image img {
   width: 100%;
 }
