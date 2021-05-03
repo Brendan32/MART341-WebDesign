@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffc;
+}
+/* This comment marks the beginning of the portion for the navbar */
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgb(255, 204, 102);
+}
+.nav-div {
+  display: inline-block;
+  padding: 0.5em 0.25em;
+}
+.nav-div:hover {
+  background-color: rgb(205, 154, 52);
+}
+.nav-break {
+  padding: 0;
+  margin: 0;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin-top: 0.5em;
+  border: 0.2em solid black;
+  background-color: #ffc;
+}
+.dropdown:hover .dropdown-content {
+  display: block
+}
+/* This comment marks the end of the portion for the navbar */
+section {
+  margin-top: 2em;
+}
+#contact {
+  margin-top: 2.5em;
+}
+.index-image img {
+  width: 100%;
+}
+.about-image img {
+  width: 33.33%;
+  float: left;
+  margin-right: 0.5em;
+}
+.services-image img {
+  width: 100%;
+}
+p {
+  background-color: rgba(255, 153, 0, 0.5);
+  padding: 0.5em;
+}
+h1, form {
+  padding: 0.5em;
+}
+
+@media only screen and (min-width: 800px) {
+  .index-image, .services-image {width: 50%;}
+  .content {width: 50%;}
+  section div {margin-left: auto; margin-right: auto;}
+  .about-image img {width: 25%;}
+}
