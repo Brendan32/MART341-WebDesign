@@ -32,3 +32,6 @@ h1 {
 .align-right {
   text-align: right;
 }
+#art h1 {
+  text-align: center;
+}
