@@ -58,7 +58,32 @@
     </nav>
 
     <section id="art">
+      <canvas id="canvas" width="300" height="300">
+        <script type="text/javascript">
+          var c = document.getElementById("myCanvas");
+          var ctx = c.getContext("2d");
 
+          ctx.beginPath();
+          ctx.arc(150, 150, 100, 0, 2 * Math.PI);
+          ctx.stroke();
+
+          ctx.beginPath();
+          ctx.arc(145, 145, 40, 0, 2 * Math.PI);
+          ctx.stroke();
+
+          ctx.beginPath();
+          ctx.arc(150, 150, 40, 0, 2 * Math.PI);
+          ctx.stroke();
+
+          ctx.beginPath();
+          ctx.arc(150, 150, 20, 0, 2 * Math.PI);
+          ctx.stroke();
+
+          ctx.beginPath();
+          ctx.arc(155, 155, 40, 0, 2 * Math.PI);
+          ctx.stroke();
+        </script>
+      </canvas>
     </section>
   </body>
 </html>
