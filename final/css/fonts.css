@@ -3,12 +3,9 @@
 nav, p {
   font-family: 'Crimson Pro', Times, serif;
   font-weight: 300;
-  font-size: 2em;
-}
-nav {
-  color: white;
 }
 span {
+  color: white;
   border: solid;
   border-width: medium;
   border-color: white;
