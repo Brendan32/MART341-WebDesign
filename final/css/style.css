@@ -6,6 +6,7 @@ body {
 /* this begins nav*/
 nav {
   background-color: black;
+  position: fixed;
 }
 .navbar-nonmobile, .dropdown {
   display: none;
