@@ -1,3 +1,15 @@
 body {
   background-color: black;
 }
+/* this begins nav*/
+.navbar-nonmobile, .dropdown {
+  display: none;
+}
+.navbar-mobile:hover .dropdown {
+  display: block;
+}
+/* this ends nav */
+p {
+  width: 100%;
+  background-color: rgba(255, 204, 0, 0.5);
+}
