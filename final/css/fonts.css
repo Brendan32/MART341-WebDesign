@@ -3,5 +3,14 @@
 nav, p {
   font-family: 'Crimson Pro', Times, serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 2em;
+}
+nav {
+  color: white;
+}
+span {
+  border: solid;
+  border-width: medium;
+  border-color: white;
+  border-radius: 100%;
 }

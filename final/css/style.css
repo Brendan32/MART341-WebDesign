@@ -1,7 +1,12 @@
 body {
   background-color: black;
+  padding: 0;
+  margin: 0;
 }
 /* this begins nav*/
+nav {
+  background-color: black;
+}
 .navbar-nonmobile, .dropdown {
   display: none;
 }
