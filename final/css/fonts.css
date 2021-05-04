@@ -6,8 +6,5 @@ nav, p {
 }
 span {
   color: white;
-  border: solid;
-  border-width: medium;
-  border-color: white;
-  border-radius: 100%;
+  font-size: 3em;
 }

@@ -14,7 +14,17 @@ nav {
 .navbar-mobile:hover .dropdown {
   display: block;
 }
+span {
+  border: solid;
+  border-width: medium;
+  border-color: white;
+  border-radius: 100%;
+  padding: 3em;
+}
 /* this ends nav */
+.index-image {
+  width: 100%;
+}
 p {
   width: 100%;
   background-color: rgba(255, 204, 0, 0.5);
