@@ -19,7 +19,7 @@ span {
   border-width: medium;
   border-color: white;
   border-radius: 100%;
-  margin: 2em;
+  margin: 1em 0.5em;
 }
 /* this ends nav */
 .index-image {
