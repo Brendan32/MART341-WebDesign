@@ -10,6 +10,7 @@ body {
 nav {
   background-color: black;
   position: fixed;
+  top: 0;
 }
 .navbar-nonmobile, .dropdown {
   display: none;
@@ -55,23 +56,29 @@ form {
   background-color: rgba(255, 204, 0, 0.33);
 }
 
-@media only screen and (min-width: 760px) {
+@media only screen and (min-width: 768px) {
   .navbar-mobile {
     display: none;
   }
   .navbar-nonmobile {
     display: block;
+    background-color: rgba(255, 204, 0, 0.5);
+    width: 100%;
+  }
+  .nav-break {
+    border: none;
+    color: black;
   }
   .nav-div {
     display: inline-block;
   }
   p {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .index-image {
-    width: 50%
-  }
-  div {
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
   }
