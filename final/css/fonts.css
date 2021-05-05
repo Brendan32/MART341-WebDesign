@@ -6,12 +6,12 @@ nav, p {
 }
 span {
   color: rgba(255, 204, 0, 0.5);
-  font-size: 2em;
+  font-size: 2.5em;
 }
 .dropdown-content {
   font-size: 1.5em;
-  color: black;
 }
+a { color: black; }
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
