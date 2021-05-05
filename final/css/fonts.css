@@ -19,3 +19,8 @@ a:active { text-decoration: none; }
 p {
   font-size: 1.5em;
 }
+@media only screen and (min-width: 768px) {
+  .nav-div {
+    font-size: 2em;
+  }
+}
