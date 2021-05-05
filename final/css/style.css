@@ -19,7 +19,7 @@ nav {
 }
 span {
   border: solid;
-  border-width: medium;
+  border-width: thick;
   border-color: white;
   border-radius: 100%;
 }
