@@ -31,6 +31,9 @@ span {
   padding: 0.5em;
 }
 /* this ends nav */
+section {
+  margin-top: 3em;
+}
 .index-image {
   width: 100%;
 }
@@ -50,4 +53,26 @@ form {
 }
 .even-row {
   background-color: rgba(255, 204, 0, 0.33);
+}
+
+@media only screen and (min-width: 760px) {
+  .navbar-mobile {
+    display: none;
+  }
+  .navbar-nonmobile {
+    display: block;
+  }
+  .nav-div {
+    display: inline-block;
+  }
+  p {
+    width: 50%;
+  }
+  .index-image {
+    width: 50%
+  }
+  div {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
